@@ -2,8 +2,8 @@ package mypackage;
 
 public class MyClass {
 public static void main(String[] args) {
-	System.out.println("Mahmut");
-	System.out.println("Osman");
+	System.out.println("Halim");
+	System.out.println("Valim");
 	
 }
 }
